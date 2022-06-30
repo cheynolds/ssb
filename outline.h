@@ -3,7 +3,6 @@ STEM Second Brain (SSB)
 By @cheynolds
 Version 0.001
 A tool to speed analysis, and a reference for common STEM equations.
-
 *******************************************************************************/
 
 #include <stdio.h>
